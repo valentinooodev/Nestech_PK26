@@ -53,3 +53,13 @@ ON T1.[group]=T2.[group]
 --Chúng ta có thể sử dụng kết quả của một query (subquery) để làm tham số cho một query khác
 --Lưu ý không sử dụng order by ở trong subquery
 --Nên bao quanh subquery bằng một cặp dấu ngoặc đơn
+
+
+-- CASE WHEN sử dụng như một cột
+--Cấu trúc hàm CaseWhen:
+CASE WHEN (điều_kiện_1) THEN value_1
+WHEN (điều_kiện_1) THEN value_2
+... ...
+WHEN (điều_kiện_N) THEN value_N
+ELSE giá_trị_mặc_định
+END
