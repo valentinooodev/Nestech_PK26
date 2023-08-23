@@ -9,6 +9,7 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 Mở file cài đặt, chọn **Basic** >> **Accept** >> **Install**
 
 Sau khi đã cài đặt SQL Server thành công, sẽ hiển thị giao diện như sau. Ta cần cài thêm SQL Server Management Studio (SSMS) bằng cách click vào nút "Install SSMS"
+hoặc click vào url sau: https://aka.ms/ssmsfullsetup
 
 ![image](https://github.com/valentinooodev/Nestech_PK26/assets/74126881/32b80398-3b7d-4afb-aa9f-99e7eb7100c6)
 
